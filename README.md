@@ -1,12 +1,12 @@
 # Taller: Introducción al Paradigma Lógico
 
 ## Indice
-- [**Ejercicio 1: Crear una Base de Hechos y Reglas**](#ejercicio_1_crear_una_base_de_hechos_y_reglas)
-- [**Ejercicio 2: Consultas en Prolog**](#ejercicio_2__consultas_en_prolog)
-- [**Ejercicio 3: Problema Práctico - Clasificación de Animales**](#ejercicio_3_problema_práctico_-_clasificación_de_animales)
-- [**Ejercicio 4: Creación de un Problema Propio usando el Paradigma Lógico**](#ejercicio_4_creación_de_un_problema_propio_usando_el_paradigma_lógico)
+- [**Ejercicio 1: Crear una Base de Hechos y Reglas**](#ejercicio-1-crear-una-base-de-hechos-y-reglas)
+- [**Ejercicio 2: Consultas en Prolog**](#ejercicio-2-consultas-en-prolog)
+- [**Ejercicio 3: Problema Práctico Clasificación de Animales**](#ejercicio-3-problema-práctico-clasificación-de-animales)
+- [**Ejercicio 4: Creación de un Problema Propio usando el Paradigma Lógico**](#ejercicio-4-creación-de-un-problema-propio-usando-el-paradigma-lógico)
 
-## Ejercicio 1 Crear una Base de Hechos y Reglas
+## Ejercicio 1: Crear una Base de Hechos y Reglas
 
 **Código Prolog:**
 
@@ -37,7 +37,7 @@ tio(X, Y) :- hermano(X, Z), padre(Z, Y).
 ?- tio(X, luis).
 ```
 
-## Ejercicio 2 Consultas en Prolog
+## Ejercicio 2: Consultas en Prolog
 
 Las siguientes consultas muestran las relaciones familiares definidas en el ejercicio 1:
 
@@ -48,7 +48,7 @@ Las siguientes consultas muestran las relaciones familiares definidas en el ejer
 25 ?- tio(X, luis).             % Resultado: X = esteban.
 ```
 
-## Ejercicio 3 Problema Práctico - Clasificación de Animales
+## Ejercicio 3: Problema Práctico Clasificación de Animales
 
 **Código Prolog:**
 
@@ -92,7 +92,7 @@ glandulasmucosas(X) :- anfibio(X).
 40 ?- vuela(X).                 % Resultado: X = aguila ; X = colibri.
 ```
 
-## Ejercicio 4 Creación de un Problema Propio usando el Paradigma Lógico
+## Ejercicio 4: Creación de un Problema Propio usando el Paradigma Lógico
 
 **Planteamiento del Problema:**
 El sistema de conocimiento está diseñado para ayudar a un psicólogo a identificar posibles trastornos mentales basándose en los síntomas reportados por los pacientes y verificar la comorbilidad entre los diagnósticos. 
