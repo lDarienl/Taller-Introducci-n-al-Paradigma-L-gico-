@@ -2,7 +2,7 @@
 
 ## Indice
 - [**Ejercicio 1: Crear una Base de Hechos y Reglas**](#ejercicio_1_crear_una_base_de_hechos_y_reglas)
-- [**Ejercicio 2: Consultas en Prolog**](#ejercicio_2consultas_en_prolog)
+- [**Ejercicio 2: Consultas en Prolog**](#ejercicio_2__consultas_en_prolog)
 
 ## Ejercicio 1: Crear una Base de Hechos y Reglas
 
