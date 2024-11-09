@@ -8,7 +8,7 @@
 
 ## Ejercicio 1: Crear una Base de Hechos y Reglas
 
-**Código Prolog:**
+[**Código Prolog:**](Paradigma_Logico/Taller.pl)
 
 ```prolog
 % Hechos
