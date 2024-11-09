@@ -50,7 +50,7 @@ Las siguientes consultas muestran las relaciones familiares definidas en el ejer
 
 ## Ejercicio 3: Problema Práctico Clasificación de Animales
 
-**Código Prolog:**
+[**Código Prolog:**](Paradigma_Logico/animales.pl)
 
 ```prolog
 % Hechos
@@ -97,7 +97,7 @@ glandulasmucosas(X) :- anfibio(X).
 **Planteamiento del Problema:**
 El sistema de conocimiento está diseñado para ayudar a un psicólogo a identificar posibles trastornos mentales basándose en los síntomas reportados por los pacientes y verificar la comorbilidad entre los diagnósticos. 
 
-**Código Prolog:**
+[**Código Prolog:**](Paradigma_Logico/psicologia.pl)
 
 ```prolog
 % Hechos
