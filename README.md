@@ -3,8 +3,8 @@
 ## Indice
 - [**Ejercicio 1: Crear una Base de Hechos y Reglas**](#ejercicio_1_crear_una_base_de_hechos_y_reglas)
 - [**Ejercicio 2: Consultas en Prolog**](#ejercicio_2__consultas_en_prolog)
-- [**Ejercicio 3: Problema Práctico - Clasificación de Animales**](#ejercicio_3:_problema_práctico_-_clasificación_de_animales)
-- [**Ejercicio 4: Creación de un Problema Propio usando el Paradigma Lógico**](#ejercicio_4:_creación_de_un_problema_propio_usando_el_paradigma_lógico)
+- [**Ejercicio 3: Problema Práctico - Clasificación de Animales**](#ejercicio_3_problema_práctico_-_clasificación_de_animales)
+- [**Ejercicio 4: Creación de un Problema Propio usando el Paradigma Lógico**](#ejercicio_4_creación_de_un_problema_propio_usando_el_paradigma_lógico)
 
 ## Ejercicio 1: Crear una Base de Hechos y Reglas
 
